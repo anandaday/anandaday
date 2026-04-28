@@ -6,4 +6,7 @@ Product manager with a technical background — I've spent years working alongsi
 
 ## What I'm Building
 
-- Hyper niche and fun products that solve for the little things in life. Seeing when the fog is going to roll in to optimize for pints in the sun, 90's nostalgia games meets your fitness activity, finding the perfect hotel for groups of friends. 
+- Hyper niche and fun products that solve for the little things in life.
+- Seeing when the fog is going to roll in to optimize for pints in the sun;
+- 90's nostalgia games meets your fitness activity;
+- Finding the perfect hotel for groups of friends. 
